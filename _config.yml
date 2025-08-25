@@ -5,4 +5,14 @@ show_downloads: false
 author:
   name: Mohamed Ashfaq Shajahan
   email: contact.m.a.shajahan@gmail.com
+exclude:
+  - README.md
+nav:
+  - name: "Home"
+    link: /
+  - name: "About"
+    link: /about/
+  
+  
+  
   
