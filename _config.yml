@@ -7,6 +7,9 @@ author:
   email: contact.m.a.shajahan@gmail.com
 exclude:
   - README.md
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 # nav:
 #   - name: "Home"
 #     link: /
