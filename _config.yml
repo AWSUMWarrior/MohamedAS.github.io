@@ -10,8 +10,8 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-# nav:
-#   - name: "Home"
-#     link: /
-#   - name: "About"
-#     link: /about/
+nav:
+  - name: "Home"
+    link: /
+  - name: "About"
+    link: /about/
